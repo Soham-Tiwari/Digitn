@@ -33,6 +33,3 @@ Many businesses get calls from prospects or existing customers asking simple que
 
 ## Brand 
 Showcasing your brand to your prospective customers is one of the most important things that you can do. By clearly establishing who you are, what you represent and what you stand for, you increase the chances of your customers buying from you.
-
-<a href="https://sites.google.com/view/digitn360/home"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"/></a>
-
