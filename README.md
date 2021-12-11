@@ -1,4 +1,4 @@
-<h1 align="center"> Digitn - Creative Ideas, Creative Results  ! </h1>
+<h1 align="center"> Digitn - Creative Ideas, Creative Results  ! </h1><img sr="https://lh4.googleusercontent.com/LdsxqklBgRpQV_WeDIvzdeHXvDlKuLwro01cH11wqtsgnXBr9OKI8lSF5MT4yGgMrc6W0yT0lPn5ilBBXERkL0YNMBzzwQWkUcGgoULigMeKmK9tjPg5hAerSDy9RH5rog=w1280"/>
 
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCqwkNCr_orMbxlpbEmfJb7w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
