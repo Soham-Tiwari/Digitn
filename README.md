@@ -24,7 +24,6 @@ A business’s online presence, regardless of industry, can have a massive impac
 
 ## First Impersion 
 Without a website, people may question your legitimacy as a business. Having a website is an opportunity to make a great first impression and give people comfort that you’re a real business. 
-
 ## Credibility
 A website is also important because it helps to establish credibility as a business. A website not only gives credibility but it also helps to give a positive impression that your company is bigger and more successful. That is why , we are making sites only for you.
 
