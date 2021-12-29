@@ -31,4 +31,4 @@ A website is also important because it helps to establish credibility as a busin
 Many businesses get calls from prospects or existing customers asking simple questions about location and hours of operation. If you miss a call, the customer is left unhappy. Calls can also distract your staff from focusing on the most important parts of your business. A website can reduce these calls and increase internal productivity. At the same time, it helps customers find useful information without needing to call, which ultimately provides an all-around better user experience. 
 
 ## Brand 
-Showcasing your brand to your prospective customers is one of the most important things that you can do. By clearly establishing who you are, what you represent and what you stand for, you increase the chances of your customers buying from you..
+Showcasing your brand to your prospective customers is one of the most important things that you can do. By clearly establishing who you are, what you represent and what you stand for, you increase the chances of your customers buying from you.
